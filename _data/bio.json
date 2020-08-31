@@ -31,8 +31,6 @@
     {
       "name": "raspberry pi",
       "keywords": [
-        "raspberry",
-        "pi"
       ]
     },
     {
@@ -139,15 +137,14 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Seoul Seekers",
       "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Crew Member",
+      "startDate": "2013",
+      "endDate": "2016",
+      "summary": "Collected funds for charity",
       "highlights": [
-        "",
-        ""
+        "Raised $3000 in charity for youth in the Phillipines following natural disaster."
       ]
     }
   ],
