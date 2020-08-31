@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
+title: Introduction
 # All dates must be YYYY-MM-DD format!
 date: 2020-08-29
 labels:
