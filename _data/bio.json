@@ -29,17 +29,32 @@
   },
   "interests": [
     {
-      "name": "raspberry pi",
+      "name": "Programming",
       "keywords": [
       ]
     },
     {
-      "name": "software engineering",
+      "name": "Computer Building",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Mixed Martial Arts",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Breakdancing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Traveling",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Video Editing",
       "keywords": [
       ]
     }
