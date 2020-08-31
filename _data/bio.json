@@ -1,180 +1,189 @@
 {
-  "basics": {
-    "name": "Philip Sequeira",
-    "label": "Shidler Undergraduate",
-    "picture": "https://psequeira89.github.io/images/phil_pic.jpg",
-    "email": "paseque@hawaii.edu",
-    "phone": "",
-    "website": "https://psequeira.github.io",
-    "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Summer, 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Philip Sequeira",
+      "label":"Shidler Undergraduate",
+      "picture":"https://psequeira89.github.io/images/phil_pic.jpg",
+      "email":"paseque@hawaii.edu",
+      "phone":"",
+      "website":"https://psequeira.github.io",
+      "summary":"I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii. I expect to graduate in Summer, 2021.",
+      "location":{
+         "address":"",
+         "postalCode":"96822",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"psequeira89",
+            "url":"http://github.com/psequeira89"
+         },
+         {
+            "network":"linkedin",
+            "username":"philip-sequeira-861a41142",
+            "url":"https://www.linkedin.com/in/philip-sequeira-861a41142"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "psequeira89",
-        "url": "http://github.com/psequeira89"
+         "name":"Programming",
+         "keywords":[
+            
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "philip-sequeira-861a41142",
-        "url": "https://www.linkedin.com/in/philip-sequeira-861a41142"
+         "name":"Computer Building",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Mixed Martial Arts",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Breakdancing",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Traveling",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Video Editing",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Programming",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Computer Building",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Mixed Martial Arts",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Breakdancing",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Traveling",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Video Editing",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "C#",
-        "Java",
-        "Kotlin",
-        "Javascript",
-        "Python",
-        "SQL"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Windows",
-        "MacOS",
-        "Ubuntu",
-        "Android",
-        "Git/GitHub",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Management Information Systems (expected Summer, 2021)",
-      "studyType": "B.B.A.",
-      "startDate": "2018-01-07",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Community College of the Air Force",
-      "area": "Intelligence Studies and Technology",
-      "studyType": "A.A.S.",
-      "startDate": "2011-01-01",
-      "endDate": "2015-08-09",
-      "gpa": "",
-      "courses": [
-      ]
-    },
-    {
-      "institution": "Defense Language Institute Foreign Language Center",
-      "area": "Korean",
-      "studyType": "A.A.",
-      "startDate": "2011-02-01",
-      "endDate": "2012-06-30",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "STAR Academic Technology",
-      "position": "Associate Project Manager",
-      "website": "https://www.star.hawaii.edu/studentinterface/",
-      "startDate": "2018-09-08",
-      "endDate": "Present",
-      "summary": "Senior administrative assistant",
-      "highlights": [
-        "Initiate and spearhead a wide range of new projects across the organization to optimize efficiency using existing resources",
-        "Create and maintain training programs for staff",
-        "Produce video content for internal and external training and promotional use through social media",
-        "Improve customer experience through user experience design input based on direct customer support analysis",
-        "Test upcoming software updates and communicate feedback with developers"
-      ]
-    },
-    {
-      "company": "United States Air Force",
-      "position": "Cryptologic Language Analyst",
-      "website": "https://www.airforce.com/",
-      "startDate": "2010-12-10",
-      "endDate": "2017-12-09",
-      "summary": "Wing Force Readiness Program Manager, Operations Training Supervisor, Information Technology Equipment Custodian, Cryptologic Operator",
-      "highlights": [
-        "Ensure legal requirements for enterprise-wide information system met across 21 geographically separate organizations monthly",
-        "Tenaciously managed accomplishment of vital information system training for executive leaders in 6000+ person organization daily",
-        "Operated $50 billion information system, authoring or contributing to over 1000 time-sensitive, classified intelligence reports",
-        "Instructed detailed technical information to more than 500 personnel to operate critical information systems over 3 year period",
-        "Monitored 40+ pieces of information technology equipment over two year period, maintained 100% accountability"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Seoul Seekers",
-      "website": "",
-      "position": "Crew Member",
-      "startDate": "2013",
-      "endDate": "2016",
-      "summary": "Collected funds for charity",
-      "highlights": [
-        "Raised $3000 in charity for youth in the Philippines following natural disaster."
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Air Force Commendation Medal",
-      "date": "2013-2016",
-      "awarder": "United States Air Force",
-      "summary": "Significant contributions to the organization over a 4 year period."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "level":"",
+         "keywords":[
+            "C",
+            "C++",
+            "C#",
+            "Java",
+            "Kotlin",
+            "Javascript",
+            "Python",
+            "SQL"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[
+            "Windows",
+            "MacOS",
+            "Ubuntu",
+            "Android",
+            "Git/GitHub"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"University of Hawaii, Honolulu, HI",
+         "area":"Management Information Systems (expected Summer, 2021)",
+         "studyType":"B.B.A.",
+         "startDate":"2018-01-07",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      },
+      {
+         "institution":"Community College of the Air Force",
+         "area":"Intelligence Studies and Technology",
+         "studyType":"A.A.S.",
+         "startDate":"2011-01-01",
+         "endDate":"2015-08-09",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      },
+      {
+         "institution":"Defense Language Institute Foreign Language Center",
+         "area":"Korean",
+         "studyType":"A.A.",
+         "startDate":"2011-02-01",
+         "endDate":"2012-06-30",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"STAR Academic Technology",
+         "position":"Associate Project Manager",
+         "website":"https://www.star.hawaii.edu/studentinterface/",
+         "startDate":"2018-09-08",
+         "endDate":"Present",
+         "summary":"Senior administrative assistant",
+         "highlights":[
+            "Initiate and spearhead a wide range of new projects across the organization to optimize efficiency using existing resources",
+            "Create and maintain training programs for staff",
+            "Produce video content for internal and external training and promotional use through social media",
+            "Improve customer experience through user experience design input based on direct customer support analysis",
+            "Test upcoming software updates and communicate feedback with developers"
+         ]
+      },
+      {
+         "company":"United States Air Force",
+         "position":"Cryptologic Language Analyst",
+         "website":"https://www.airforce.com/",
+         "startDate":"2010-12-10",
+         "endDate":"2017-12-09",
+         "summary":"Wing Force Readiness Program Manager, Operations Training Supervisor, Information Technology Equipment Custodian, Cryptologic Operator",
+         "highlights":[
+            "Ensure legal requirements for enterprise-wide information system met across 21 geographically separate organizations monthly",
+            "Tenaciously managed accomplishment of vital information system training for executive leaders in 6000+ person organization daily",
+            "Operated $50 billion information system, authoring or contributing to over 1000 time-sensitive, classified intelligence reports",
+            "Instructed detailed technical information to more than 500 personnel to operate critical information systems over 3 year period",
+            "Monitored 40+ pieces of information technology equipment over two year period, maintained 100% accountability"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Seoul Seekers",
+         "website":"",
+         "position":"Crew Member",
+         "startDate":"2013",
+         "endDate":"2016",
+         "summary":"Collected funds for charity",
+         "highlights":[
+            "Raised $3000 in charity for youth in the Philippines following natural disaster."
+         ]
+      }
+   ],
+   "awards":[
+      {
+         "title":"Air Force Commendation Medal",
+         "date":"2013-2016",
+         "awarder":"United States Air Force",
+         "summary":"Significant contributions to the organization over a 4 year period."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
