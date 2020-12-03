@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Progress In Programming Report
+title: Checkpoint Assignment #3
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-03
 labels:
